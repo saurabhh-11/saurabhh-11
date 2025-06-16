@@ -2,7 +2,7 @@
 
 ### Passionate About Data
 
-- Currently working on **DataBanker – Banking Data Extraction Tool**
+
 - Learning **Data Analytics**,**Data Science** and **exploring cloud**
 - Ask me about **Python**, **Excel**, and **SQL**
 - Reach me at: **saurabhmulik8@gmail.com**
